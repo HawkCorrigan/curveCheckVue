@@ -15,7 +15,12 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0",
+    "dotenv-webpack": "^1.5.7",
     "vue": "^2.5.2",
+    "vue-clipboard2": "^0.2.0",
+    "vue-fuse": "^1.5.2",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
